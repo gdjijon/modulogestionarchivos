@@ -93,9 +93,10 @@ Desde la misma vista del **Listado de Archivos**, ubica la columna derecha llama
   
 ### Clase PHP Implementada
 Se encuentra implementada en gestorarchivos.php , con la declaración en la línea 2 de código y encontramos los métodos solicitados:
-public function subir($archivo) { ... } línea 18 del código
-public function listar() { ... } linea 58 del código 
-public function eliminar($nombre) { ... }   linea 67 del código     
+
+  public function subir($archivo) { ... } línea 18 del código
+  public function listar() { ... } linea 58 del código 
+  public function eliminar($nombre) { ... }   linea 67 del código     
 
      
 LINK DE YOUTUBE DE VIDEO REALIZADO: https://youtu.be/2AbzAihIklM
