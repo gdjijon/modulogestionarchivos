@@ -90,13 +90,12 @@ Desde la misma vista del **Listado de Archivos**, ubica la columna derecha llama
 * **Para descargar:** Haz clic en el botón verde **"Descargar"**. El archivo se guardará automáticamente en la carpeta de descargas de tu computadora.
 * **Para eliminar:** Haz clic en el botón rojo **"Eliminar"**. El sistema lanzará una ventana emergente de confirmación en la parte superior del navegador preguntando si estás seguro. Al aceptar, el archivo desaparecerá del listado y será borrado definitivamente del servidor.
 
-  
+--  
 ### Clase PHP Implementada
 Se encuentra implementada en gestorarchivos.php , con la declaración en la línea 2 de código y encontramos los métodos solicitados:
-
-  public function subir($archivo) { ... } línea 18 del código
-  public function listar() { ... } linea 58 del código 
-  public function eliminar($nombre) { ... }   linea 67 del código     
-
+       
+public function subir($archivo) { ... } línea 18 del código
+public function listar() { ... } linea 58 del código 
+public function eliminar($nombre) { ... }   linea 67 del código
      
 LINK DE YOUTUBE DE VIDEO REALIZADO: https://youtu.be/2AbzAihIklM
