@@ -18,8 +18,6 @@ El sistema se ejecuta sobre un entorno de servidor web (Apache/PHP) y se organiz
 * `uploads/`: Directorio autogenerado donde se persisten físicamente los archivos.
 * `.htaccess`: Archivo de configuración de Apache para bloqueo de ejecución de scripts.
 
-
-
 ---
 
 ## 2. Componentes y Métodos Técnicos (Arquitectura)
